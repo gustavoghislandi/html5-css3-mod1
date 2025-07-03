@@ -1,0 +1,7 @@
+Hierarquia de Títulos.
+
+A hierarquia é como nos índices. Você não pode, portanto, pular do nível 1 para o 3, sem passar pelo 2. Você deve configurar o tamanho no CSS. A hierarquia é sempre 1,2,3,4,5,6, nessa ordem.
+
+Você pode ser mais de um h1 em uma página.
+
+Os h vão de h1 até h6. Mais que isso seu texto provavelmente está complexo demais.

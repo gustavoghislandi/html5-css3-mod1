@@ -1,0 +1,22 @@
+Links para download.
+
+Ele compactou o arquivo para fazer um menor envio de dados totais.
+
+Enquanto você não tiver link para colocar, estiver só criando o link, coloque uma #. <a href="#">
+
+Acesse:
+
+iana.org/assignments/media-types
+
+Nesse site você verá o media-type de cada tipo de arquivo.
+Exemplo, se procurar por 'pdf' no Ctrl + F, você encontrará 'application/pdf'.
+
+       <a href="livro/RC-Ebook-Frases2.pdf" download="RC-Ebook-Frases2.pdf" type="application/pdf">Baixar o ebook em PDF</a>
+
+       <li><a href="livro/RC-Ebook-Frases2.pdf.zip" download="RC-Ebook-Frases2.pdf.zip" type="application/zip">Ebook compactado em ZIP</a></li>
+
+O teste para .zip ele fará o download. Já o PDF o navegador abrirá o local.
+
+[No PDF coloquei target="_blank" para abrir em outra aba o PDF.]
+
+Se você clicar no link do PDF com o botão direito e colocar em 'salvar link como', ele baixará o arquivo.

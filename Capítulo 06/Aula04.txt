@@ -1,0 +1,7 @@
+A tag img em HTML5.
+
+Atividade prática.
+
+Faça sempre um bom texto alternativo ('Alt'), que explique o que é a imagem, porque serve para leitores de tela, acessibilidade, SEO.
+
+Meus arquivos baixados já eram pequenos, eles aumentaram em KB com a redução de tamanho de imagem. Ficaram quase de mesmo tamanho.

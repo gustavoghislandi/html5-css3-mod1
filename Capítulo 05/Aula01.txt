@@ -1,0 +1,13 @@
+Parágrafos e Quebras.
+
+Sempre que você for fazer um exercício novo, fecha tudo e abre tudo de novo. [Eu uso colapse all, costumo fazer isso já.]
+
+Sempre use letras minúsculas nos nomes dos seus arquivos.
+
+No HTML, o que importa não são as linhas, são as marcas.
+
+&lt; faz <  
+
+&gt; faz >
+
+[Percebi qu se não colocar o ; funciona também, mas no VS Code não fica destacado em azul]

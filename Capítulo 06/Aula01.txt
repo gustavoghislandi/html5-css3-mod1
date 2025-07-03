@@ -1,0 +1,35 @@
+Ele está ensinando HTML e a como agir profissionalmente.
+Então, vai ensinar sobre direitos autorais. 
+Você tem o direito de usar qualquer imagem no seu site?
+
+É errado você pegar imagens na internet e colocar no seu site como se fossem suas. Claro, que em um trabalho escolar comum, simples, ninguém vai ficar fiscalizando. Mas se for algo profissional, tem que agir profissionalmente.
+
+No Google você pode usar 'ferramentas' e ali tem filtros por tipo de licença.
+
+Alguns sites:
+
+site: unsplash.com
+
+site: pexels.com
+
+pixabay, wikimedia commons...
+
+-- GPT
+Pexels – Oferece fotos e vídeos de alta qualidade, também com licença livre para uso comercial.
+
+Unsplash – Famoso pelas fotos artísticas e de alta resolução, que também podem ser usadas para fins comerciais.
+
+Freepik – Tem uma grande variedade de gráficos, vetores, fotos e ilustrações (algumas são gratuitas e outras são premium).
+
+Shutterstock – Apesar de ser pago, é uma das maiores plataformas de imagens comerciais.
+
+StockSnap – Oferece imagens gratuitas e de alta qualidade, com nova adição semanal.
+
+Burst (by Shopify) – Focado em fotos comerciais, perfeito para quem precisa de imagens para e-commerce ou marketing.
+
+Reshot – Um banco de imagens com uma seleção curada de fotos gratuitas para uso comercial.
+
+Canva – Além de ser uma ferramenta de design, o Canva oferece uma grande variedade de imagens e ilustrações gratuitas e pagas.
+--
+
+Ele vai usar o GIMP pra editar imagens.

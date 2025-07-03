@@ -1,0 +1,95 @@
+O que é dominínio e hospedagem?
+
+Domínio: é o nome que identifica o seu site.
+
+Domínio é um nome único. Então, quando um domínio já existe você não vai conseguir criar um com aquele nome.
+
+O domínio costuma ser pago anualmente (ou em múltiplos de ano).
+
+Vários TLD (Top Level Domain).
+
+Vamos ver dominínio gratuito.
+
+---------------------------
+
+Hospedagem: é o local onde o seu será armazenado. [Guanabara disse ser melhor e mais seguro hospedar em um servidor que não no seu computador.]
+
+É um espaço para armazenar arquivos.
+
+Pago mensalmente (tem desconto maior se pago anualmente). Hospedagem é bem mais caro que o dominínio. O Guanabara compara com a hospedagem em hotel. Os valores irão variar em preço e depender da qualidade do serviço também. Tem sites que têm hospedagens muito boas e sites com umas ruinzinhas.
+
+Vamos ver hospedagem gratuita.
+
+Você escolhe por espaço, memória, recursos, se suporta algumas linguagens.
+
+É preciso tomar muito mais cuidado ao escolher hospedagem do que domínio.
+
+URL (Uniform Resource Locator) - Localizador de Recurso Uniforme
+
+Exemplo:
+
+www.github.com/gustavoguanabara
+
+É todo o escrito acima.
+
+Você coloca a URL e ela vai no servidor, no endereço exato/'único'.
+
+Dentro de uma URL há (sub) partes.
+
+Domínio:
+Exemplo:
+
+github.com
+
+No caso de um e-mail, depois do @ vem o domínio. No endereço costuma vir depois do www, mas nem sempre.
+
+Dependendo do plano, você tem direito a hospedagem, e-mail...
+
+TLD (Top Level Domain):
+
+É os .com , .net , .store , .info
+
+GTLD (G de Generic)
+
+.com é instituição comercial,
+.edu educacionais,
+.gov governamentais,
+.store lojas
+
+Esses são domínios a que chamamos de genéricos.
+
+Existem também os 
+CCTLD (CC de Country Code)
+
+.br para Brasil
+.us para United States
+.uk United Kingdom
+.ar Argentina
+.tv Tuvalu (de uma ilha pequena chamada Tuvalu, e muitas emissoras de TV compraram)
+
+Então o final do domínio é o que chamamos TLD, que pode ser GTLD ou CCTLD.
+
+Agora o sub-domínio:
+
+Exemplo:
+
+www
+
+O www é o sub-domínio principal do seu servidor web, mas você pode ter outros subdomínios.
+
+Depois da /:
+
+é o caminho ['path'].
+
+Em:
+gustavoguanabara.github.io
+
+Tudo isso é URL.
+
+github.io é o domínio.
+
+gustavoguanabara é o sub-domínio.
+
+---
+
+No path, o '%20' representa um espaço em branco.

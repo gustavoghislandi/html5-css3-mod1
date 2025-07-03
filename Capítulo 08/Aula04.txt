@@ -1,0 +1,20 @@
+Citações e Códigos.
+
+O <code></code> não organiza seu código. Com a tag <pre> junto ele vai ficar na formatação que você colocar.
+
+DICA: Shift + Tab volta as tabulações selecionadas uma tabulação por clique.
+
+Citações simples -> <q></q> 
+
+Citações mais de 3 linhas:
+
+    <blockquote cite ="www.aquiéoendereço.com.br/de_onde_veio_a_citação_ou_seja_referência">
+        A diferença entre elementos inline e um bloco de texto é importante. Os elementos HTML neste capítulo descrevem os blocos de texto.
+    </blockquote>
+
+
+Texto invertido ("Bi-Directional Override"):
+    <p><bdo dir="rtl">Estou aprendendo a criar coisas em HTML.</bdo> <!--rtl -> right to left-->
+    <p><bdo dir="ltr">Estou aprendendo a criar coisas em HTML</bdo>.</p> <!--ltr -> left to right-->
+
+Provavelmente é para o tipo de língua. Então, se a língua for hebraico, é provável que o <bdo dir="auto"> seja da direita para esquerda e não da esquerda para direita.

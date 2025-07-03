@@ -1,0 +1,11 @@
+Links Internos.
+
+Ao usar rel="next" e "prev" (de previous) você está ajudando o buscador do Google a encontrar a sua página, ao invés de ele decidir sozinho qual é a próxima página. Isso valoriza o isso.
+
+o rel='nofollow' é para o mecanismo de busca não seguir adiante. Geralmente você usa para páginas que são patrocinadores que você não conhece a procedência ou algo assim. Não é para o usuário não ir, é para os buscadores. Você diz ao mecanismo de busca que você 'não necessariamente' dá um aval para o link.
+
+Existem clientes que não querem link nofollow, eles querem 'dofollow' (ou seja, siga sim).
+
+target="_self" não é necessário. Mas serve para você abrir a página na mesma aba.
+
+Aprenda Linux porque o servidor em que você vai hospedar o site muito provavelmnte é Linux.

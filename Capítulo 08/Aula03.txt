@@ -1,0 +1,27 @@
+Formatações adicionais em HTML.
+
+<h1>Negrito</h1>
+<p><b>Negrito sem semântica</b></p>
+<p><strong>Negrito com semântica</strong></p>
+
+<h1>Itálico</h1>
+<p><i>Itálico sem semântica</i></p>
+<p><em>Itálico com semântica</em></p>
+
+<p>Podemos criar também <mark style="background-color: yellow;">um texto marcado</mark> usando a tag MARK</p> <!-- A cor padrão amarela foi modificada-->
+<p>Podemos criar também <mark >um texto marcado</mark> usando a tag MARK</p> <!-- A cor padrão amarela foi modificada-->
+
+<p>Estamos criando um <big>texto grande</big> e um <small> texto pequeno nesse parágrafo</small></p> <!--o Big estpa obsoleto. Ele era só de forma. O small, provavelmente não, deve ser as 'letras pequenas' de um contrato, por exemplo-->
+
+<p>Podemos marcar <del>um texto como excluído</del> para indicar que ele deve ser lido, mas não considerado.</p>
+
+<p>Podemos marcar <ins>um texto como incluído</ins> para dar uma ẽnfase e indicar que ele foi adicionado depois.</p>
+
+<p>Existe também o <u>sublinhado não semântico.</u></p>
+
+
+<h2>Texto sobrescrito</h2>
+<p>Para inserir coisas do tipo x<sup>2</sup>+3</p>
+
+<h2>Texto subscrito</h2>
+<p>Para inserir coisas do tipo H<sub>2</sub>O</p>

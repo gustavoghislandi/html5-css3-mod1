@@ -1,0 +1,72 @@
+1 byte = 8 bits. Cada bit é um número binário, que pode ser 1 ou 0.
+
+01000001 = A
+
+Acima é a representação do 'A' no 'código multibyte UTF-8'. Esse código utiliza de 1 a 4 bytes para representar letras, símbolos, caracteres acentuados e até mesmo emojis.
+
+Na verdade os 1 e 0 são estados do que se chama 'onda quadrada'. O computador só entende essas ondas binárias (quadradas).
+
+Multiplos do byte:
+
+1024 bytes = 1KB
+
+Por que na computação não multiplica por mil? Porque o computador trabalha com a base 2, então 2 elevado a 10 é 1024. Não é na base 10 que usamos comumente na matemática.
+
+1024 bytes = 1KB (Kilo)
+1024 KB = 1 MB (Mega)
+1024 MB = 1 GB (Giga)
+1024 GB = 1 TB (Tera)
+1024 TB = 1 PB (Peta)
+1024 PB = 1 EB (Exa)
+1024 EB = 1 ZB (Zetta)
+1024 ZB = 1 YB (Yotta)...
+
+MB é diferente de Mb.
+
+MB é MEGABYTES. Usado geralmente para ARMAZENAMENTO (HD, SSD, RAM...).
+
+Mb é MEGABITS. Usado geralmente para TRANSMISSÃO (Placa de Rede, Internet, Velocidade da Rede...).
+
+
+---------------
+
+O computador entende a onde quadrada, enquanto o telefone entende a onde senoidal (mais arredondada).
+
+MOdulação: é a transformação da onda quadrada na senoidal.
+DEModulação: é a transformação da onda senoidal na quadrada.
+
+Por isso o nome MODEM (Modulação e Demodulação). Na verdade, o Modem tem também um roteador bem simples, tem um switch... é o que chamamos de Gateway. Isso é assunto de Redes de Computadores.
+
+Quando digito 'instagram.com', onde está o Instagram? Onde estão os arquivos? Estão em um servidor. Nesse caso, em um conjunto de servidores.
+
+Toda máquina que está na internet ela tem um número. 3.224.112.47, no momento da gravação do vídeo, esse é um dos servidores do Instagram.
+Quando você se conecta na internet, você também recebe um número [o seu gateway recebe, você tem outro na sua rede interna].
+
+---
+Descobri o seu IP e o de um site.
+
+www.iplocation.net
+
+O IP que aparece nesse site, se você desligar o aparelho roteador e ligar de novo, ele já irá buscar outro IP. É o seu IP público, não é IP local.
+
+Se você quiser saber o IP de algum serviço, digite ali no campo do site.
+
+O meu já está comp IPv6.
+
+Assim como você não grava mais o número de telefone da pessoa, você grava o nome e acessa o número pela agenda telefônica, a internet também tem algo como uma "agenda eletrônica", que é o servidor DNS (Domain Name System - Sistema de Nome de Domínio).
+'instagram.com', por exemplo, é um Domínio.
+
+DNS é um local na internet que você pode questionar qual o endereço IP do site. Então, se você quer consultar um site como o 'instagram.com', primeiro vai uma consulta ao DNS, que pesquisa na lista e retorna para o cliente o endereço do domínio. Depois, com o endereço IP do site, você acessa o site.
+De lá, vem os dados, empacotados, etc, como vimos na aula anterior.
+
+Rotas. A internet é uma rede finita com caminhos finitos. O sistema de roteamento consegue desviar a rota para pegar rotas melhores, menos congestionadas, etc. Cada pacote pode ir por uma rota diferente. Se demora para acessar, é possível que a sua solicitação tenha ido por outra rota, talvez.
+
+------------------------------------------------------------------------
+
+Nota pós-aula: O cara vem estudar HTML5 e CSS3 e ganha aulas de Redes, que, às vezes, são melhores que as da faculdade, tanto em didática quanto em tempo utilizado. Do meu ponto de vista atual, o Guanabara é muito bom professor.
+
+
+
+
+
+

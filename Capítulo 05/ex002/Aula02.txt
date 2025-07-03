@@ -1,0 +1,23 @@
+Símbolos e Emoji no seu site.
+
+Ele disse que vai falar de gambiarras que muita gente faz também.
+
+(propaganda da RECODE, que tem vários cursos (windows, word, excel))
+
+Usar <br><br><br><br><br><br> é gambiarra. Não é código profissional. Se precisar de espaço maior, use o CSS.
+
+<!-- Aqui ficam comentários-->
+
+Foram colocados símbolos especiais no documento index.html do ex002 e você poderá ver mais no pdf da aula, lá há uma tabela. Ainda assim existem muitos mais.
+
+Para emojis, acesse a emojipedia.org.
+
+Copiar e colar funciona na maioria dos navegadores, mas use o código.
+
+Para isso use &#x (isso vai indicar um valor hexadecimal), o valor, e ; no final.
+
+Exemplo:
+
+Se o código é U+1F596, faça:
+
+    &#x1F596;

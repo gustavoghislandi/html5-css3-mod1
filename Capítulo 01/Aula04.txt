@@ -1,0 +1,48 @@
+Internet nasceu durante o período da Guerra Fria (que iniciou em 1949).
+
+Em 1969 a Rússia lançou o primeiro satélite artifical ao espaço. Ele emitia bips para a Rússia fazer testes, mas os EUA não sabiam disso. Diante disso, os EUA criaram a DARPA (Defence Advanced Research Project Agency). Ela cria armas e tecnologias.
+EM 1969 a DARPA precisava que os centros militares tivessem dados umas das outras, para caso fossem destruídas os dados não se perdessem. Então, eles criaram uma pequena rede, a ARPANET, que tinha somente 4 pontos no leste dos EUA. Computadores: 1 SDS Sigma&, na Universidade da Califórnia; um SDS 90, na Universidade de Stanford; um IBM 370/75, no Centro de Matemática de Los Angeles; e o único computador militar da época, DEC PDP-10, na base militar de Utah. Eles poderiam trocar informações e cada um teria o back up um do outro.
+Na época computadores diferentes falavam linguagens diferentes. Então criaram o NCP (Network Control Protocol), o protocolo de controle de rede. Isso fazia os computadores se comunicarem em uma linguagem única. O NCP era muito simples, primordial. Se um dos computadores quisesse se comunicar com outro, a rede toda parava, eles começavam a transmitir dados e somente após o fim da transmissão que a rede ficava liberada.
+
+Em 1970 a rede cresceu e já atravessava os EUA para a parte oeste. Era um cabo que ia de ponta a ponta dos EUA.
+
+Em 1972, ela cresceu mais, só que estava se tornando impraticável continuar utilizando o NCP. Então, dois pesquisadores criaram dois protocolos, que depois foram unidos.
+O Bob Kahn criou o TCP (Transfer Control Protocol). A ideia do TCP era eliminar o problema de ter que parar a rede para fazer uma transmissão. Só que esse protocolo tinha um grande problema, o número de pontos estava grande demais e ele tinha um problema de identificação desses pontos.
+Então o Vinton Cerf (ou Vint Cerf) criou um protocolo de identificação de máquinas, o IP (Internetwork Protocol).
+Ao unir os trabalhos de ambos, criou-se um conjunto de protocolos batizado de TCP/IP. Aqui surgiu a versão 1. Em 2020 (momento de gravação da aula), estávamos na versão 6.
+A criação desses protocolos foi emergencial, pois a rede estava crescendo muito rapidamente.
+
+Em 1977, foi feita a primeira comunicação via satélite com a Universidade de Londres (era o risco ondular no mapa mostrado).
+A rede cresceu tanto que os militares não queriam mais cuidar da rede. Nela tinha os militares, tinha o pessoal das universidades, algumas empresas pequenas já faziam o uso da rede... Então, os militares ficaram com uma rede menor chamada MILNET. A rede científica, das universidades, ficou como NSFNET (NSF é National Science Foundation). E também a parte Comercial, com várias redes comerciais.
+Com exceção da MILNET, todas as redes queriam se comunicar entre eles, fazer uma rede de interconexão entre elas. Então, cunhou-se o termo Interconnect Networking, que de forma abreviada seria Internetworking, para representar esse conjunto de um monte de redes. Depois, simplificou-se o termo ainda mais, chamando-o de Internet.
+
+www.submarinecablemap.com é o site que mostra os cabos submarinos da internet.
+
+A internet não é uma rede, é um conjunto de muitas redes.
+
+Comunicação entre ponto A(cliente) e ponto B(servidor). O servidor tem um arquivo que o cliente quer. O cliente solicita ela. Se for uma imagem grande a Internet mundial pode ficar lenta. O TCP vai quebrar a mensagem em pacotes menores, vai os enviar fora de ordem e por rotas diferentes, em tempos diferentes, se um pacote sumir ele envia de novo, mas no final o todo do arquivo será enviado. Agora, o TCP do lado do cliente será o responsável por reconstruir a imagem. Quando a internet fica lenta e a imagem carrega aos poucos (acontecia mais no passado), mostrando uma parte, depois outra, depois outra, são exatamente os pacotes chegando pela internet.
+
+Para maiores explicações, assista a este documentário: https://youtu.be/TNQsmPf24go . É tipo um canal Manual do Mundo, só que gringo.
+
+--
+
+Como era a internet antigamente?
+Grosso modo, era basicamente uma tela preta com letras verdes. O protocolo básico para comunicação é o protocolo 'gopher'. Não tinha mouse, somente teclado e cursor. [Foi criado em 1991, pelo que vi. Atua na camada TCP/IP, desenhado para distribuir, buscar e recuperar/reaver documentos pela internet. É um precursor do HTTP, baseado em menu-document text-oriented, ou seja, estilo terminal. Ele era preferido por muitos por usar menos recursos de rede que os Web services. Goals do gopher:
+-> A file-like hierarchical arrangement that would be familiar to users.
+-> A simple syntax.
+-> A system that can be created quicklu and inexpensively.
+-> Extending the file system metaphor, such as searches.
+
+Em 1993, em Genebra, um inglês chamado Tim (Timoth) Bernes-Lee (TBL) estava trabalhando em um projeto parecido com o gopher. Era um texto, que tinha áreas sensíveis, que poderiam ser acessadas através de 'links', que eram os hiperlinks. Ele evoluiu essa tecnologia, que chegou mais tarde no TCP/IP. É o HTTP (Hypertext Tranfer Protocol), 'http://'.
+Além do HTTP, ele criou o HTML (Hyper Text Markup Language), uma linguagem bem simples, fundamentada em marcas, linguagem de marcação.
+O conceito WWW (World Wide Web - Rede de Alcance Mundial) também foi inventado por ele, essa internet que conhecemos hoje. Para ela funcionar, também é necessário um navegador. 
+
+O primeiro navegador foi o Mosaic, criado pelo Marc Andreessen. Ele criou o primeiro navegador compatível com HTTP da internet (criada pelo TBL).
+
+A Internet é a rede das redes. E dentro da internet existem servidores especializados em um determinado tipo de serviço ou protocolo. Alguns desses servidores são especializados, por exemplo, em transferência de arquivos, os servidores FTP. Outros (antigamente) em hipertextos simples, que são de protocolo GOPHER. Outros em receber e enviar e-mails, que são os protocolos SMTP, POP3, IMAP. E também existem servidores especializados em HTTP. Provavelmente outros por aí existem também.
+
+A World Wide Web é uma subrede da internet (um rede dentro da grande rede interet). É a parte da Internet que é especializada em http. Para não ter que ficar digitando Hyper Text Markup Language, ele criou essa sigla 'www', que engloba os servidores http.
+
+Essas subredes todas podem se comunicar. Eu posso, por exemplo, usar o HTTP para comunicar com servidores FTP. Posso usar o HTTP para acessar meu e-mail, hoje em dia você consegue usar o webmail.
+
+Essa disciplina de desenvolvimento web foca em produzir conteúdo em hipertexto (HTML).

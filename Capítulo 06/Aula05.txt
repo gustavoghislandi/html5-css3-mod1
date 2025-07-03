@@ -1,0 +1,17 @@
+Como mudar o favicon de um site.
+
+Para favicons, pegue imagens que não tenham muito detalhe.
+
+Ele recomenda usar o formato .ico. Alguns .png funcionam em alguns navegadores, mas ele sugere usar o .ico.
+
+site iconarquive.com
+
+Nele tem imagens que você pode baixar .ico.
+
+Em favicon.cc você pode desenhar o seu ícone.
+
+No favicon.io você pode mandar um texto virar um .ico, um .png virar um .ico ou um emoji virar um .ico.
+
+No VS Code, lá no head do html, digite link e selecione o link:favicon.
+
+Ele recomenda que o ícone que você for escolher seja nomeado 'favicon.ico'.

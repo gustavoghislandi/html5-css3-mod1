@@ -1,0 +1,26 @@
+Front-end, Back-end e Full Stack.
+
+O servidor entrega geralmente HTML, CSS e JS.
+
+E entregará cópias iguais para todos os clientes. Isso é o que chamamos de 'site estático'.
+
+HTML, CSS e JS são executados do lado do cliente 'client-side'. O papel do servidor é simplesmente entregar os arquivos para você.
+
+O Guanabara prefere o termo 'client-side development', mas o mercado instituiu o termo 'front-end'. 
+
+O dev front-end vai ter que saber o básico de cores, imagens, tipografia, Photoshop, GIMP.
+
+É importante saber a diferença entre desenvolvedor front-end e designer. O designer cria todo o design, o front-end transforma isso em HTML, CSS e JS. Saber UX/UI é bom para o front-end.
+
+O outro lado é o 'server-side', que o mercado convencionou chamar de back-end. Esse é quem cuida parte do servidor. Usa linguagens como PHP (uma das mais famosas e mais aplicadas em web até oje), JS ( umas das soluções é Node.js), C#, Python, Java.
+
+Se o site for estático fica inviável ficar atualizando estoque disponível, etc, porque teria que ser atualizado manualmente.
+Na versão dinâmica, o back-end (usando, por exemplo PHP) vai fazer requisições ao banco de dados (por exemplo, sobre quais camisetas têm que aparecer no site, quais são promoção, etc), o BD então vai enviar os elementos HTML para o servidor e o servidor vai enviar esse HTML junto com o CSS e o JS.
+
+O desenvolvedor Front-end precisa conhecer somente (diz ele) HTML, CSS e JS. E quanto mais souber sobre isso, melhor dev front-end a pessoa será. [Hoje em dia já tem que saber frameworks também, etc... e dependendendo até UX.]
+
+Enquanto o desenvolvedor back-end precisa conhecer Banco de Dados, acesso a dados, captura de informações via servidor, aí ele precisa conhecer essas tecnologias (linguagens, frameworks, SGBD, etc...)
+
+Quando você souber tanto front-end quanto back-end, você será full stack.
+
+Duvide bastante de programas, pessoas, etc, que vão dizer que vão transformar você em full stack em semanas ou alguns meses. Isso simplesmente não existe. Essas matérias e pessoas estão sendo desonestas com você. No fim disso você não irá virar full stack e vai achar que a culpa é sua.

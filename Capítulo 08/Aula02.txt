@@ -1,0 +1,9 @@
+Negrito e Itálico do jeito certo.
+
+Negrito:
+<b>Negrito sem semântica</b>
+<strong>Negrito com semântica</strong>
+
+Itálico:
+<i>Itálico sem semântica</i>
+<em>Itálico comm semântica</em>

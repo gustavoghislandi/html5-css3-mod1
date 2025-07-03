@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang='pt-BR'>
+<head>
+    <meta charset='UTF-8'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0'>
+    <title>Mídias em HTML</title>
+</head>
+<body>
+    <h1>Imagem dinâmica</h1>
+    <p>Tente abrir este site em vários dispositivos diferentes ou simplesmente aumente e diminua o tamanho do seu navegador.</p>
+
+    <picture>
+        <!--O Guanabara usa 50 px a mais do que o tamanho da próxima imagem maior, para que não apareça a barra de rolagem.  -->
+        <source media="(max-width: 750px)" srcset="imagens/foto-p.png" type="image/png"> <!-- A menor sempre tem que ser antes, para funcionar. -->
+        <source media="(max-width: 1050px)" srcset="imagens/foto-m.png" type="image/png"> <!-- Se a imagem for até 1050px, mostrará a foto-m, acima disso irá para a foto-g (padrão no src de img)-->
+        <img src="imagens/foto-g.png" alt="Imagem flexível">
+    </picture>
+    <picture>
+        <!-- Neste caso com min-width, para funcionar, tem que colocar o inverso, da maior para a menor. -->
+        <source media="(min-width: 1050px)" srcset="imagens/foto-g.png" type="image/png"> 
+        <source media="(min-width: 750px)" srcset="imagens/foto-m.png" type="image/png">
+        <img src="imagens/foto-p.png" alt="Imagem flexível">
+    </picture>
+</body>
+</html>

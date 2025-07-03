@@ -1,0 +1,26 @@
+Listas OL e UL.
+
+Listas Ordenadas:
+
+ol type="1">
+        <li>Acordar</li>
+        <li>Ligar para o João</li>
+        <li>Tomar café
+        <li>Escovar os dentes <!-- O /li> se tornou opcional a partir do HTML5-->
+    </ol>
+
+Possuem o parâmetro type, que tem alguns valores, que mudam os tipos de ordenadores.
+
+
+Listas Não Ordenadas:
+
+    <ul type="circle">
+        <li>Pão</li>
+        <li>Leite</li>
+        <li>Tomate</li>
+        <li>Manteiga</li>
+        <li>Alface
+        <li>Feijão
+    </ul>
+
+Ela tem os types: disc, circle, square, none

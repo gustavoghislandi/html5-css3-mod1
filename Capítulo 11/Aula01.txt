@@ -1,0 +1,21 @@
+Imagens dinâmicas.
+
+Adaptação de material para multiplas mídias, para multiplos tamanhos de tela. Muitos acessam de computador, outros de celular, alguns poucos da televisão.
+
+Relembrando, não se deve fazer imagens 'perfeitas' porque o site fica pesado, lento. 
+
+Sites lentos são bem prejudicados pelo Google.
+
+Se você tem um tamanho de arquivo e reduz o tamanho dele via CSS, o arquivo continua ocupando o mesmo espaço na memória.
+
+Vamos trabalhar com multiplas imagens para tamanhos de telas diferentes.
+
+Ele criou no GIMP 3 arquivos.
+
+Um de 300 x 300 px.
+
+Outro de 700 x 700 px.
+
+E outro de 1000 x 1000 px.
+
+Todos com resolução de X80 e Y80.

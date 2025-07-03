@@ -1,0 +1,64 @@
+A diferença entre HTML, CSS e JavaScript.
+
+Como funcionam a HTML e as CSS? ('a' linguagem HTML e 'as' folhas de estilo CSS)
+
+HTML e CSS não são linguagens de programação. Você não programa elas, você desenvolve.
+
+HTML (Hypertext Markup Language)
+CSS (Cascading Style Sheets)
+
+HTML é conteúdo (textos, imagens, vídeos, tabelas, listas)
+CSS é design, estilo (cores, sombras, tamanhos, posicionamento)
+JS é interação (menus, animações, pop-ups, validações).
+
+As pessoas geralmente não acessam sites que não têm atrativos visuais.
+
+Não adianta um site bonito sem conteúdo e com conteúdo sem estar bonito.
+
+Para mostrar o que é cada um, ele baixou (no Google Chrome) sa ferramenta 'web developer' (que tem um símbolo de uma engrenagem) e desabilitou JS e CSS.
+
+-----------------HTML
+tags são colocadas entre sinais de < e > . Ou 'colchetes angulares'.
+
+Tag de abertura - conteúdo - tag de fechamento.
+Ex: <h1>Exemplo de título<h1>
+
+Algumas tags não têm fechamento.
+Ex:
+<img src="foto.png" alt="Exemplo de foto">
+
+Acima, src e alt são exemplos de parâmetros, enquanto "foto.png" e "Exemplo de foto" são valores.
+
+--
+Estrutura básica do documento HTML
+<!DOCTYPE html> // para dizer que é um HTML5
+<html lang="pt-br"> // sinaliza que o site é primordialmente em português
+    <head>
+        <meta charset="UTF-8"> // Significa que o site é compatível com caracteres UTF-8, ou seja, serve para acentuações, ce-cedilha 'ç', etc. Essencial para sites em português.
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"> // Isso significa que o site vai ocupar 100% da parte branca e numa escala de 100%
+        <title>Document</title> // O título do site, lá na aba.
+
+    </head>
+    <body>
+        <h1>Olá, Mundo!</h1>
+
+    </body>
+</html>
+
+-----------------CSS
+CSS usa seletores. Abaixo, o 'h1' é um seletor.
+Dentro de cada seletor, colocaremos linhas (que são uma declaração).
+Toda declaração em CSS tem que ter ';' no final.
+Abaixo, 'color' é o que chamamos de propriedade, 'blue' é o valor.
+Então, dentro de cada seletor temos declarações e dentro de cada declaração temos um par de propriedade e valor.
+
+h1 {
+    font-family: Arial;
+    font-size: 20pt;
+    color: blue;
+}
+
+-----------------
+Como funcionam a HTML e as CSS? 
+
+Após você acessar o servidor, você vai trazer uma cópia do HTML e do CSS. A função do navegador é analisar linha a linha (interpretar) e gerar (renderizar) o resultado visual.

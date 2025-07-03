@@ -1,0 +1,12 @@
+Instalando todas as ferramentas.
+
+Ele indica o Google Chrome como navegador. 
+E o Visual Studio Code como IDE.
+
+(propaganda RECODE (via QR Code no vídeo), onde dizem que vão ajudar você a fazer o seu primeiro aplicativo para celular usando a ferramenta App Inventor (criada pelo Google e mantido pelo MIT). É um curso de criação de aplicativos móveis)
+
+Baixe somente de sites oficiais.
+
+No VS Code ligar o 'word wrap' é uma boa. Dá pra mexer no font-size também. E mexer nos themes (claro ou escuro, por exemplo).
+
+Ele colocou para salvar automaticamente (evita usar ctrl + S o tempo todo).

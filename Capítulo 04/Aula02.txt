@@ -1,0 +1,21 @@
+Seu primeiro código HTML.
+
+Primeira coisa é a criação de pastas. Um bom programador é bem organizado.
+
+Ele criou dentro de Documentos a pasta 'estudos' e dentro dela 'html-css' e outra chamada 'javascript'. Na pasta 'html-css' ele criou a pasta chamada 'exercicios'. Nessa pasta ele criou a pasta 'ex001'.
+
+Falou do comando 'Abri com Code'.
+
+Na pasta ele criou o documento 'index.html'.
+
+--
+
+No documento, digite '! + Enter'.
+
+Aqui ele vai explicando as tags (já vi em outros cursos).
+
+Meus arquivos ficarão dentro das pastas de cada capítulo.
+
+'h1' não significa letra grande. Significa título (é uma hierarquia).
+
+Tudo no HTML é feito com marcas (ou tags). Markup é marcação. HTML HyperText Markup Language.

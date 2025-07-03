@@ -1,0 +1,34 @@
+O tamanho das imagens importa para um site?
+
+Os blocos que você vê no zoom da imagem .jpg são do algoritmo de compactação.
+
+Você não terá 'perfeição'. Se você tiver 'perfeição', seu site vai ficar muito pesado.
+
+O Guanabara disse que, no máximo, você deve usar imagens com até 1500 pixels de largura.
+
+Na parte da resolução, que fica na scale(redimensionamento) no GIMP, ele disse que pode colocar 'sem medo de ser feliz' os valores 50,000 (cinquenta), tanto no X quanto no Y. Se for olhar é pixels/in, ou seja, pixels por polegada.
+
+Ele não recomenda você sobrescrever as imagens originais. Ele disse para sempre manter as versões 'full' guardadas no seu backup, porque depois você pode necessitar de gerar outros tamanhos [ou fazer outras edições].
+
+No momento de exportar a imagem, ele colocou a Qualidade em 70 (para testar).
+
+maneiras que ele esta salvando os arquivos:
+
+nome-full.jpg
+nome-qtdPixels.jpg
+
+exm:
+
+paisagem-full.jpg
+paisagem-1200.jpg
+paisagem-650.jpg
+
+Ele disse que normalmente uma imagem para aparecer em um site é de 600, 650 pixels de largura. Mas, claro, não é regra, você tem que testar no seu site.
+
+Ele conseguiu reduzir de 1.836KB para 344KB e 122KB, impressionante.
+
+ARQUIVOS GRANDES PESAM MUITO E DEIXAM OS SITES LENTOS, E SITES LENTOS NÃO APARECEM TANTO NO BUSCADOR DO GOOGLE. FIQUE ATENTO! VOCÊ NÃO PODE DEIXAR O SEU SITE LENTO! NUNCA!
+
+Aumentar a resolução não vai tornar a imagem melhor, é sempre da orignal para baixo.
+
+No .png ele modificou de 23KB para 13KB. Não parece fazer tanta diferença, mas no dia-a-dia, se você tiver 1 milhão de acessos vai fazer diferença.

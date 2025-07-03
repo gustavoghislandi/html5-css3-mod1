@@ -1,0 +1,75 @@
+Propaganda da RECODE, tem vídeos gratuitos lá.
+
+BIBLIOGRAFIA
+
+---------------------
+
+Material de Apoio:
+    Tem no github dele: https://github.com/gustavoguanabara/html-css/tree/master/aulas-pdf
+
+    Está separado em Capítulos.
+
+---------------------
+
+Referências on-line:
+    Todas gratuitas.
+
+    MDN (Mozilla Developer Network) -> tem a referência completa de HTML e CSS, é mais em formato de manual. Não é a referência oficial. Em inglês.
+
+    W3C Standards -> Referência oficial. Formada pela World Wide Web Consortioum. Em inglês.
+
+    WHATWG Living Standard (Web Hypertext Application Technology Working Group) -> Grupo de estudos, grupo de trabalho, para a evolução da linguagem HTML. Em inglês.
+
+    W3Schools da Refsnes Data -> Tem nada a ver com a oficial, mas o material é muito bom. HTML, CSS, JS, Python... Em inglês.
+
+---------------------
+   
+Livros (ele recomendou no kindle):
+
+------
+
+    Série da O'REILLY (são bem próximos da documentação oficial), alguns da Alta Books e outros de outra editora:
+        
+        HTML5 (Mark Pilgrim). É bem iniciante. Tem em português.;
+        CSS  (Eric Meyer);
+        Flexbox in CSS (Estelle Weyl;
+        Grid Layout in CSS (Eric Meyer).
+
+------
+
+    Deleites visuais:
+
+        HTML5 e CSS3 (Elizabeth Castro e Bruce Hyslop), da Alta Books. É um guia prático e visual. Foge um pouco do formato de manual. Tem bastante exercícios;
+        HTML e CSS (Jon Duckett), da Alta Books. Tem de JS e Query, além de PHP também. Bem impresso, altíssima qualidade. É um livro de arte. Isso se reflete no preço. Falta aprofundamento. Mas tem muitas dicas e muitas sacadas.
+        Série: Head First (Use a Cabeça!), HTML e CSS (Elisabeth Robson e Eric Freeman), Alta Books. Livro muito bom, com linguagem muit fácil e simples, mas agrada mais para quem está começando e para quem é mais jovem. O Guanabara gosta para ter referências para saber explicar de maneiras simples.
+        Crie Seu Próprio Site (Nate Cooper e Kim Gee), da Novatec. Tem em potuguês. Ensina em fomra de quadrinhos. É bom para dar de presente para jovens. Você não é o foco desse livro.
+
+------
+
+    Livros do Mauricio Samy Silva (amigo do Guanabara), todos da Novatec:
+        HTML5;
+        CSS3;
+        Fundamentos de HTMLe CSS3;
+        CSS Grid Layout.
+
+    O cara é considerado um dinossauro das CSSs.
+
+------
+
+    Livros de Design:
+        Curso de design gráfico, princípios de práticas (David Dabner e outros), da editora GG. Livro muito bonito. São os princípios, não é programação;
+        Design (Bob e Maggie Gordon), da Senac. É semelhante ao primeiro, mas mais resumido.
+        A Psicologia das Cores (Eva Heller), da GG;
+        Pensar com Tipos (Ellen Lupton), da GG. Sobre como escolher fontes e tal.
+
+------
+
+    Outros livros:
+        Série Explained (digitais):
+            Flexbox Explained (Jorge Montoya e Stephen Burge), da OSTraining;
+            CSS Grid Explained (Jorge Montoya e Stephen Burge), da OSTraining.
+
+        Da Smashing magazine (impressos) são conjuntos de artigos, uma compilação. São mais antigos:
+            Smashing HTML5 (Bill Sanders), da Bookman.
+            Smashing HTML5 (Eric Meyer), da Bookman.
+    

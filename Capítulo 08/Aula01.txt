@@ -1,0 +1,30 @@
+Semântica na HTML% é importante.
+
+O que é semântica?
+
+Refere-se ao significado das coisas (muito mais do que a forma).
+
+Antigamente no HTML se usava forma, mas não tanto o significado.
+
+Ele está falando das tags obsoletas.
+
+Acesse www.w3.org e procure por 'obsolete features'
+
+Algumas delas funcionam, mas não é por isso que você tenha que usar, porque a qualquer momento pode parar de funcionar.
+
+Se a tag ficar vermelha no VS Code é porque aquilo está obsoleto.
+
+O HTML5 usa tags semânticas.
+
+
+a tag <b></b> por exemplo é de forma.
+a tag <strong></strong> por exemplo é de forma.
+
+
+a tag <u></u> por exemplo é de forma.
+Enquanto a <adress></adress> é semântica.
+
+Os mecanismos de busca podem começar a te desvalorizar se você usar tagas obsoletas.
+
+Uma época mudava toda semana. Hoje em dia menos.
+

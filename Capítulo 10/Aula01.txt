@@ -1,0 +1,18 @@
+Links e Âncoras em HTML5.
+
+O fundamento básico do protocolo http, o fundamento básico do HTML são os Links. Toda vez que você clica em um lugar que vai para outro lugar nós chamados de Link. Esse ponto clicável é chamado de 'âncora' ou 'hiperlink'.
+
+O Google é o buscador mais utilizado do mundo, o segundo é o Youtube (que também é do Google). Quando você tem uma marca, um site, o ideal é você ter também um canal do Youtube para um levar para o outro. Tem que ter uma estratégia de ganhar links.
+
+O Google basicamente tem um algoritmo de encontrar e indexar sites. Tem um link para um vídeo no PDF dizendo sobre como o Google funciona.
+
+Você não se cadastra no Google. O Google encontra você. SEO. Você vai organizar seu código para os mecanismos de busca te encontrarem.
+
+O algoritmo de busca do Google é baseado em links.
+
+
+ <p>Você pode acessar o meu <a href="https://github.com/gustavoghislandi" target="_blank" rel="external">repositório publico no GitHub</a></p>
+
+ sobre o parâmetro 'rel', ele fala mais no PDF. Em 2020, era relativamente novo. O '_blank' faz abrir em uma página nova.
+
+ Quando é dentro do seu próprio site, não se abre uma aba nova. Mas para outro lugar, use o target="_blank" rel="external". O 'external' vai indicar para o navegador que é um link externo.

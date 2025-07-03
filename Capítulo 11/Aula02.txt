@@ -1,0 +1,11 @@
+Imagens que se adaptam sozinhas.
+
+Os usuários se incomodam muito com rolagens laterais, principalmente em dispositivos móveis. Isso faz o usuário ir embora e aumenta o que se chama de bounce rate (taxa de rejeição), que o Google usa para valorizar ou desvalorizar o seu site.
+
+Então sempre se preocupe com o usuário. O usuário em primeiro lugar.
+
+Isso facilita em muito a vida do usuário, "você não tem noção" do quanto.
+
+Adapte o tamanho das suas imagens ao tamanho da tela do seu usuário, principalmente as imagens. Porque isso vai fazer total diferença na experiência do usuário.
+
+O Guanabara sugere "cropar" uma imagem como teste. Ou seja, cortar a imagem em 3 tamanhos distintos, de modo que você mostre a imagem inteira na tela maior, parte da imagem na tela média e somente o mais essencial (um rosto sem os laterais de fundo, por exemplo) na imagem pequena.

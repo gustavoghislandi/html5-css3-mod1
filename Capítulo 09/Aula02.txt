@@ -1,0 +1,17 @@
+Listas mistas e de definição.
+
+<h2>Lista de Definições</h2>
+        <dl>
+            <dt>Termo</dt>
+            <dd>Descrição</dd>
+        </dl>
+        <dl>
+            <dt>HTML</dt>
+            <dd>Linguagem de marcação para a criação do conteúdo do um site</dd>
+            <dt>CSS</dt>
+            <dd>Linguagem de marcação para a criação do design do um site</dd>
+            <dt>JavaScript</dt>
+            <dd>Linguagem de programação para a criação da interatividade do um site</dd>
+        </dl>
+
+O buscador do Google dá valor para sites com definições. Por exemplo, quando alguém for buscar 'o que é html'.

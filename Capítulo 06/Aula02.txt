@@ -1,0 +1,23 @@
+Quais são os formatos para imagens na Web?
+
+Para Web geralmente usamos .jpeg e .png, algumas vezes .gif .tif(muito pesado) .svg.
+
+.jpeg foi criado em 1983. Ele consegue compactar imagens percebendo os pontos de cor que são iguais.
+
+.gif (a pronúncia certa, de acordo com o criador dele, é JIF - mas agora já era)
+
+.gif permite transparência e animação. Mas a imagem é ruim.
+
+.png permite transparência, mas sem tanta compactação quanto .jpeg.
+
+Tome bastante cuidado para que a imagem não pese no seu site. Não vá colocar imagens de 20MB, em um celular é capaz de nem abrir.
+
+.jpeg tem a extensão .jpg
+
+Na busca do Google, 'cor' 'transparente' vai achar os .png.
+
+Geralmente o quadriculado na imagem indica a transparência.
+
+.png distorce menos se der zoom. .jpeg distorce mais.
+
+Meu professor Design UX/UI nos disse sobre o .svg, que utiliza vetores. Por esse motivo, ele não tende a perder qualidade, independentemente do tamanho, ele pode ser escalado.
