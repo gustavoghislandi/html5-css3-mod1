@@ -1,0 +1,11 @@
+Colocando áudio no seu site.
+
+Se você cria conteúdo no YouTube, vá em YouTube Studio > Biblioteca de áudio, para músicas gratuitas, aí existem as com atribuição necessária e as sem. As com, você precisa copiar e colar algumas linhas atribuindo.
+
+Lembrando, cuide do tamanho do arquivo, além dos direitos autorais. O que vale para imagens aplica-se aqui também.
+
+Formatos compatíveis com Web -> MP3, WAV, OGG
+
+No material em pdf tem vários midia types.
+
+Evite usar arquivos grandes (como .wav) porque não muito pesados. Qualidade top é para arquivo de download, não para navegação.

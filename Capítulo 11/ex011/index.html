@@ -21,5 +21,18 @@
         <source media="(min-width: 750px)" srcset="imagens/foto-m.png" type="image/png">
         <img src="imagens/foto-p.png" alt="Imagem flexível">
     </picture>
+
+    <h1>Reproduzindo Áudio</h1>
+    <p>Vamos aprender a reproduzir áudios em HTML5</p>
+    <audio src="midia/coffee-lofi-chill-lofi-music-332738.mp3" controls autoplay></audio>
+    <!-- controls mostra os controles. autoplay toca sozinho (deveria, não funcionou) -->
+     <p>Segunda maneira de fazer</p>
+    <audio preload="metadata" controls loop> <!--em preload, não coloque auto porque ele só vai considerar que o site foi carregado depois de carregar todo o arquivo de áudio. metadada é só os metadados, como duração do áudio. e none carrega nada, somente carrega ao clicar no play, então mostra como se fosse 0:00 de duração até clicar.-->
+        <!-- o parâmetro loop faz ele recomeçar. Seria bom pra botar junto com o autoplay, se quisesse uma musiquinha de fundo. -->
+        <source src="midia/lofi-295209.mp3" type="audio/mpeg">
+        <!-- Se você tiver outros tipos de arquivo, como .ogg e .wv, coloque eles como outras linhas de source. Ele sempre tentará carregar de cima para baixo, se não conseguir, irá para a próxima linha. EVITE USAR .wav porque não muito pesados. Qualidade top é para arquivo de download, não para navegação.-->
+         <!-- Caso ele não consiga nenhum desses, você pode colocar um parágrafo. -->
+          <p>Infelizmente seu navegador não consegue reproduzir áudio. <a href="exemplo.com">Clique aqui para baixar o arquivo</a> </p>
+    </audio>
 </body>
 </html>
