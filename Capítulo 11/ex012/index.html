@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang='pt-BR'>
+<head>
+    <meta charset='UTF-8'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0'>
+    <title>Vídeos com HTML 5</title>
+</head>
+<body>
+    <h1>Inserindo vídeos hospedados localmente</h1>
+    <p>Este vídeo está hospedado no meu próprio servidor.</p>
+    <video src="midia/meu_video.mp4" width="500" controls></video> <!-- reduzir o tamanho do vídeo por aqui não muda o tamanho dele em espaço utilizado.-->
+
+    <!-- Maneira ideal abaixo -->
+     <video width="500" poster="imagens/coca-cola.jpg" controls> <!-- poster é a capa do vídeo. -->
+        <source src="midia/meu_video.mp4" type="video/mp4">
+        <!-- <source src="midia/meu_video.m4v" type="video/mp4"> -->
+        <!-- <source src="midia/meu_video.webm" type="video/webm"> -->
+        <!-- <source src="midia/meu_video.ogv" type="video/ogv"> -->
+        <p>Seu navegador não tem compatibilidade com reprodução de vídeos.</p>
+     </video>
+</body>
+</html>

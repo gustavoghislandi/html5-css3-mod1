@@ -1,0 +1,7 @@
+Vídeos em hospedagem própria
+
+Sobre convesores de formato de arquivo de vídeo, existem sites também.
+
+É bom ter os vídeos em vários formatos porque os navegadores podem ser compatíveis com uns formatos e não com outros.
+
+Lembrete. Evite hospedar localmente porque sai bem caro. Deixe o cliente bem ciente disso antes.
