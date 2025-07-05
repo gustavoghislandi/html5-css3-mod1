@@ -1,0 +1,13 @@
+Formatos de vídeo para seu site
+
+Primeira coisa, como sempre, cuidado com direitos autorais.
+
+.mp4, .m4v, .webm, .ogv (formatos de arquivos mais comuns)
+
+handbrake.fr (Open Source Video Transcoder), O Handbrake é um conversor de vídeos. Tem que baixar e instalar.
+(As compressões que o Guanabara fez ficaram maiores que o original)
+
+Vídeo é, na verdade, uma sequência de imagens.
+
+Por mais que o seu cliente queira hospedagem local dos seus vídeos, nunca coloque a qualidade mais top porque vai custar um fígado. Antes disso, evite hospedagem local. O Guanabara diz que acima de 1080p, nada de hospedar localmente no site.
+
