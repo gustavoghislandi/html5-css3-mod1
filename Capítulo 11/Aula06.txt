@@ -1,0 +1,25 @@
+Incorporação de vídeos externos
+
+Informação que colhi de IA:
+O autoplay, tanto em vídeo quanto em áudio, hoje em dia, por conta das políticas dos navegadores só funciona junto com o parâmetro 'muted', ou seja, mutado, sem som.
+
+Vá em YouTube, escolha um vídeo e clique em incorporar. Então, copie o código e cole no seu navegador, fazendo as alterações que considerar necessárias.
+
+O maior buscador do mundo é o Google, o segundo maior buscador do mundo é o YouTube. Então se o vídeo do seu site está no YouTube, isso aumenta o rating do seu site no algoritmo do Google. Claro, nesse caso o vídeo ficará aberto a público. Mas tem outros sites que permitem somente assinantes assistir. O Guanabara usa o Vimeo.
+
+Vimeo é semelhante ao YouTube.
+
+Vantagens e desvantagens do Vimeo. 
+Vantagem: qualidade do vídeo.
+Desvantagem: o algoritmo (codec) dele não é tão bom quanto o do YouTube, então o vídeo dá umas travadinhas se a tua internet não for muito boa.
+
+No Vimeo há uma quantidade limite de Bytes para subir para o Vimeo, mas o consumo mensal (no pacote Business, por exemplo), é ilimitado.
+
+Não se engane, se colocar como 'não listado' no vídeo do YouTube, o vídeo não será incorporado na busca do Youtube, mas o vídeo ainda é acessível e pode ser incorporado em outros sites.
+
+Sempre, com muita atenção, direitos autorais. O YouTube não perdoa abuso de direitos autorais.
+
+
+--
+
+Ao final, ele disse para fazer o desafio 09, que tem no github dele.
