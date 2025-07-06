@@ -21,3 +21,7 @@ Exemplo:
 Se o código é U+1F596, faça:
 
     &#x1F596;
+
+--- site com símbolos que tem no PDF
+
+https://www.w3schools.com/charsets/ref_utf_symbols.asp
