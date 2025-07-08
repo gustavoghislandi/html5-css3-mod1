@@ -1,0 +1,25 @@
+Estilos CSS Internos
+
+Dentro do conteúdo da tag head, coloque 
+<style>
+ /*Estilos aqui dentro */
+</style>
+
+Exemplo:
+
+<style>
+    body {
+        background-color: lightsteelblue;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 20px;
+    }
+    h1 {
+        color: darkblue;
+    }
+</style>
+
+A vantagem é que você faz um estilo e todas as tags iguais receberão aquele estilo, aumenta produtividade, agilidade, facilidade de manutenção e polui menos visualmente.
+
+Desvantagens: 
+- Tamanho. O estilo costuma tomar mais espaço que o código da página.
+- Usar em muitas páginas. Se quiser usar em muitas páginas, tem que copiar o código e colar em cada página. Mesma coisa para modificar, em todos os arquivos tem que mudar.

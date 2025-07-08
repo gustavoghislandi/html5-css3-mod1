@@ -1,0 +1,20 @@
+Estilos CSS Externos
+
+Colocar isto no início do arquivo CSS evita problemas dos caracteres (mas, não é obrigatório colocar):
+
+@charset "UTF-8";
+
+Você pode usar mais de um arquivo de folha de estilo, exemplo:
+
+<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="extra.css"> 
+
+Evite ao máximo usar o estilo inline.
+
+No mesmo arquivo você pode usar os 3 métodos de estilização. O que prevalece é o inline, depois o local, depois o externo, do último ao primeiro, pois é interpretado.
+
+Resumindo:
+
+Evite ao máximo usar o estilo inline. No máximo, para coisas pontuais.
+O estilo interno somente para estilos bem pequenos.
+Porém, essa técnica de estilos externos é a melhor e mais organizada.

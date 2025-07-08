@@ -1,0 +1,17 @@
+Estilos CSS Inline
+
+O estilo não tem nada a ver com semântica. É somente estilo, design.
+
+Na tag body, por exemplo, coloque:
+
+    style="background-color: yellow;"
+
+Isso fará o fundo ficar amarelo.
+
+O estilo inline é menos utilizado. Contudo, ele pode ser de serventia se você quiser que uma tag em específico tenha um estilo diferente de tags semelhantes a ela, por exemplo. Porque você terá que estilizar as tags uma a uma usando essa forma de estilização.
+
+No geral, ele é um estilo muito trabalhoso e que tende a poluir visualente o seu código. É um método para configurações pontuais.
+
+Ao colocar 'font-size: 20px;' na tag body, as tags de título adaptarão seus tamanhos em conformidade. Ou seja, o font-size no body serve de base/referência para os outros textos (h1-h6, p...)
+
+O Guanabara disse que o 'em' (ao invés de px, por exemplo) é uma medida relativa a outra. Será comentado melhor sobre ela mais à frente.
