@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang='pt-BR'>
+<head>
+    <meta charset='UTF-8'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0'>
+    <title>Desafio 07</title>
+</head>
+<body>
+    <h1>Imagem flexível</h1>
+    <p>Você está vendo a imagem completa? Experimente ampliar o tamanho da sua janela para aproveitar melhor a
+        experiência &#x1F92F;</p>
+    <picture>
+        <!-- O exemplo do Guanabara é do centro para fora. Este eu fiz da direita para a esquerda. -->
+        <source media="(max-width: 550px)" srcset="imagens/egito-p273-300.jpg" type="image/jpg">
+        <source media="(max-width: 800px)" srcset="imagens/egito-m536-300.jpg" type="image/jpg">
+        <img src="imagens/egito-g794-300.jpg" alt="Imagem flexível">
+    </picture>
+</body>
+</html>
